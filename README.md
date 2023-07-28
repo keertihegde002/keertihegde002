@@ -1,5 +1,6 @@
-<img src="
-">
+
+
+<img width="500px" height="500px" src="![keeread](https://github.com/keertihegde002/keertihegde002/assets/96190179/4c206b84-60b1-493b-8d5f-80a0cd45bffa)">
 
 <h1 align="center">Hi 👋, I'm Keerti Hegde</h1>
 <h3 align="center">DSA | 3⭐ Codechef | Programmer</h3>
