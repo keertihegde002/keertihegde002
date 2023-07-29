@@ -1,6 +1,4 @@
-
-
-![banner](https://github.com/keertihegde002/keertihegde002/assets/96190179/ff28912a-b258-4d5b-9b12-cd4fcbfa0c90)
+![](https://github.com/keertihegde002/keertihegde002/assets/96190179/4c03560d-d2cd-4823-b9d0-8b3dab12c31b)
 
 
 <h3 align="center">DSA | 3⭐ Codechef | Programmer</h3>
