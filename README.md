@@ -10,7 +10,7 @@
 
 <h3 align="left">Featured Projects: </h3>
 1. <a href="https://github.com/keertihegde002/learnTogether">LearnTogether</a><p> Web based platform for finding study buddy related to any topic via customised rooms for different topics.</p>
-2. <a href="https://github.com/your_username/project2">Weather</a><p> Easy access to weather of any location along with the results of various parameter such as humidity, wind rate and precipitation. </p>
+2. <a href="https://github.com/keertihegde002/weather">Weather</a><p> Easy access to weather of any location along with the results of various parameter such as humidity, wind rate and precipitation. </p>
 
 <h3 align="left">Leetcode Stats:</h3>
 
@@ -20,7 +20,7 @@
 
 
 <h3 align="left">Connect with me on:</h3>
-<a  href="https://linkedin.com/in/keerti hedge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keerti hedge" height="30" width="40"  style="margin-right: 30px ;" /></a>   </t>
+<a  href="https://www.linkedin.com/in/keerti-hegde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keerti hedge" height="30" width="40"  style="margin-right: 30px ;" /></a>   </t>
 
 <h3 align="left">Coding Profiles:</h3>
 <p>
