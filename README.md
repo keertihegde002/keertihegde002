@@ -1,4 +1,4 @@
-![](https://github.com/keertihegde002/keertihegde002/assets/96190179/4c03560d-d2cd-4823-b9d0-8b3dab12c31b)
+![image](https://github.com/rohzzn/rohzzn/assets/47408756/a6109617-9103-4e0c-aaf1-1ac6b5fd06e3)
 
 
 <h3 align="center">DSA | 3⭐ Codechef | Programmer</h3>
