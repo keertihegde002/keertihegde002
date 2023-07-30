@@ -1,4 +1,4 @@
-![image](https://github.com/rohzzn/rohzzn/assets/47408756/a6109617-9103-4e0c-aaf1-1ac6b5fd06e3)
+![image](banner.png)
 
 
 <h3 align="center">DSA | 3⭐ Codechef | Programmer</h3>
