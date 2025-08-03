@@ -3,9 +3,7 @@
 
 <h3 align="center">DSA | 3⭐ Codechef | Programmer</h3>
 
-
-👩‍🎓4th year Engineering Student <br><br>
-👩‍💻Aspiring Software Engineer 
+👩‍💻Engineer at Flipkart! 
 
 
 <h3 align="left">Featured Projects: </h3>
