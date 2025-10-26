@@ -1,7 +1,7 @@
 ![image](banner.png)
 
 
-<h3 align="center">DSA | 3⭐ Codechef | Programmer</h3>
+<h3 align="center">Engineer at Flipkart</h3>
 
 👩‍💻Engineer at Flipkart! 
 
