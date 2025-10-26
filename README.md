@@ -1,7 +1,7 @@
 ![image](banner.png)
 
-
-<h3 align="center">Engineer at Flipkart!</h3>
+<h3 align="center">Heyy there!</h3>
+<P>Engineer at Flipkart!<P>
 
 
 
