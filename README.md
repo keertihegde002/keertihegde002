@@ -7,6 +7,7 @@
 
 
 <h3 align="left">Featured Projects: </h3>
+1. <a href="[https://github.com/keertihegde002/learnTogether](https://github.com/keertihegde002/ExpenseTracker)">Expense Traacker 🪙 </a><p> Mern project for tracking the expenses, help visualize the expenses.</p>
 1. <a href="https://github.com/keertihegde002/learnTogether">LearnTogether 📖 </a><p> Web based platform for finding study buddy related to any topic via customised rooms for different topics.</p>
 2.  <a href="https://github.com/keertihegde002/PhotoAlbum">Photo Album 📷 </a><p> Stores and categorizes the images using Django as backend. One can upload the images with description and view them based on categorized classification.</p>
 3. <a href="https://github.com/keertihegde002/weather">Weather 🌦️ </a><p> Easy access to weather of any location along with the results of various parameter such as humidity, wind rate and precipitation. </p>
